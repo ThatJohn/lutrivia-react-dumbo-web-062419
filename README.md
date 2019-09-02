@@ -10,7 +10,7 @@ Good luck. When you are finished, jump back on labs!
 
 ## My end result
 
-![end result](./Screenshot_2019-09-02 React App.png)
+![end result](./screenshot.png)
 
 ## Wireframe
 
